@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://localhost:3000/robots.txt</loc>
+        <lastmod>2013-10-07T15:33:58+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:3000/blog/archives/</loc>
+        <lastmod>2013-10-07T15:33:58+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:3000/</loc>
+        <lastmod>2013-10-07T15:33:58+02:00</lastmod>
+    </url>
+</urlset>
